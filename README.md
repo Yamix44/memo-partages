@@ -1,2 +1,2 @@
 # memo-partages
-Memo partagé entre utilisateur
+Memo partagé entre utilisateurs 
